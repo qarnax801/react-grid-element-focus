@@ -17,3 +17,9 @@ a blur effect.
 
 P.S. This was made on top of create-react-template, but it doesn't use any specific package so it can work with any React code.
 Let me know if you have any issues or suggestions for making it better :)
+
+
+Tags:
+- Focus on one element while blurring others
+- Focus and blur everything else
+- onHover focus and blur others
